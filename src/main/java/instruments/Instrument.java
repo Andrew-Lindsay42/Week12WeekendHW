@@ -51,6 +51,6 @@ public class Instrument implements IPlay, ISell {
 
     @Override
     public String play() {
-        return "Ting!";
+        return "The instrument makes a sound.";
     }
 }

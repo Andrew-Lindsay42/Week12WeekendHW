@@ -51,6 +51,6 @@ public class InstrumentTest {
 
     @Test
     public void canPlay(){
-        assertEquals("Ting!", triangle.play());
+        assertEquals("The instrument makes a sound.", triangle.play());
     }
 }
