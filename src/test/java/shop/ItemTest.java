@@ -31,6 +31,6 @@ public class ItemTest {
 
     @Test
     public void canCalculateMarkup(){
-        assertEquals(499, item.calculateMarkup());
+        assertEquals(399, item.calculateMarkup());
     }
 }
